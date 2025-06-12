@@ -1,12 +1,12 @@
 # Hola
 
-##Instalación
+## Instalación
 ```bash
 go get -u github.com/CristianAngarita/greetings
 
 ```
 
-##Ejemplo
+## Ejemplo
 ```go
 package main
 
